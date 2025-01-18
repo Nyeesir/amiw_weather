@@ -7,7 +7,8 @@
     "night":{
       "description":"Słonecznie",
       "image":"http://openweathermap.org/img/wn/01n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(189,4,4,0.75) 0%, rgba(255,143,0,0.7525210767900911) 56%)"
   },
   "1":{
     "day":{
@@ -17,7 +18,8 @@
     "night":{
       "description":"Przeważnie słonecznie",
       "image":"http://openweathermap.org/img/wn/01n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(189,4,4,0.66) 0%, rgba(255,143,0,0.66) 100%)"
   },
   "2":{
     "day":{
@@ -27,7 +29,8 @@
     "night":{
       "description":"Przeważnie pochmurno",
       "image":"http://openweathermap.org/img/wn/02n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(189,4,4,0.75) 26%, rgba(51,4,32,0.7525210767900911) 50%, rgba(0,57,117,0.7525210767900911) 71%)"
   },
   "3":{
     "day":{
@@ -37,7 +40,8 @@
     "night":{
       "description":"Pochmurno",
       "image":"http://openweathermap.org/img/wn/03n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(51,4,32,0.7525210767900911) 36%, rgba(0,57,117,0.7525210767900911) 71%)"
   },
   "45":{
     "day":{
@@ -47,7 +51,8 @@
     "night":{
       "description":"Mgła",
       "image":"http://openweathermap.org/img/wn/50n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(105,91,99,0.7525210767900911) 34%, rgba(0,57,117,0.7525210767900911) 71%)"
   },
   "48":{
     "day":{
@@ -57,7 +62,8 @@
     "night":{
       "description":"Mgła szronowa",
       "image":"http://openweathermap.org/img/wn/50n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(105,91,99,0.7525210767900911) 15%, rgba(0,57,117,0.7525210767900911) 58%)"
   },
   "51":{
     "day":{
@@ -67,7 +73,8 @@
     "night":{
       "description":"Lekka mżawka",
       "image":"http://openweathermap.org/img/wn/09n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(91,105,104,0.7525210767900911) 15%, rgba(12,86,163,0.7525210767900911) 58%)"
   },
   "53":{
     "day":{
@@ -77,7 +84,8 @@
     "night":{
       "description":"Mżawka",
       "image":"http://openweathermap.org/img/wn/09n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(54,135,152,0.7525210767900911) 15%, rgba(44,110,179,0.7525210767900911) 58%)"
   },
   "55":{
     "day":{
@@ -87,7 +95,8 @@
     "night":{
       "description":"Silna mżawka",
       "image":"http://openweathermap.org/img/wn/09n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(8,98,117,0.7525210767900911) 17%, rgba(26,81,139,0.7525210767900911) 58%)"
   },
   "56":{
     "day":{
@@ -97,7 +106,8 @@
     "night":{
       "description":"Lekka przymarzająca mżawka",
       "image":"http://openweathermap.org/img/wn/09n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(6,42,69,0.7525210767900911) 17%, rgba(10,51,94,0.7525210767900911) 69%)"
   },
   "57":{
     "day":{
@@ -107,7 +117,8 @@
     "night":{
       "description":"Przymarzająca mżawka",
       "image":"http://openweathermap.org/img/wn/09n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(24,50,70,0.7525210767900911) 22%, rgba(5,57,111,0.7525210767900911) 69%)"
   },
   "61":{
     "day":{
@@ -117,7 +128,8 @@
     "night":{
       "description":"Lekki deszcz",
       "image":"http://openweathermap.org/img/wn/10n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(68,137,190,0.7525210767900911) 22%, rgba(33,98,164,0.7525210767900911) 76%)"
   },
   "63":{
     "day":{
@@ -127,7 +139,8 @@
     "night":{
       "description":"Deszcz",
       "image":"http://openweathermap.org/img/wn/10n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(51,116,167,0.7525210767900911) 22%, rgba(26,79,133,0.7525210767900911) 53%)"
   },
   "65":{
     "day":{
@@ -137,7 +150,8 @@
     "night":{
       "description":"Silny deszcz",
       "image":"http://openweathermap.org/img/wn/10n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(37,87,125,0.7525210767900911) 22%, rgba(4,48,92,0.7525210767900911) 53%)"
   },
   "66":{
     "day":{
@@ -147,7 +161,8 @@
     "night":{
       "description":"Lekki przymarzający deszcz",
       "image":"http://openweathermap.org/img/wn/10n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(98,148,185,0.7525210767900911) 22%, rgba(33,80,128,0.7525210767900911) 62%)"
   },
   "67":{
     "day":{
@@ -157,7 +172,8 @@
     "night":{
       "description":"Przymarzający deszcz",
       "image":"http://openweathermap.org/img/wn/10n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(85,121,148,0.7525210767900911) 19%, rgba(17,59,102,0.7525210767900911) 53%)"
   },
   "71":{
     "day":{
@@ -167,7 +183,8 @@
     "night":{
       "description":"Lekkie opady śniegu",
       "image":"http://openweathermap.org/img/wn/13n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(181,191,198,0.7525210767900911) 19%, rgba(26,84,143,0.7525210767900911) 65%)"
   },
   "73":{
     "day":{
@@ -177,7 +194,8 @@
     "night":{
       "description":"Opady śniegu",
       "image":"http://openweathermap.org/img/wn/13n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(211,219,224,0.7525210767900911) 19%, rgba(26,84,143,0.7525210767900911) 85%)"
   },
   "75":{
     "day":{
@@ -187,7 +205,8 @@
     "night":{
       "description":"Mocne opady śniegu",
       "image":"http://openweathermap.org/img/wn/13n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(187,199,207,0.7525210767900911) 22%, rgba(60,100,140,0.7525210767900911) 90%)"
   },
   "77":{
     "day":{
@@ -197,7 +216,8 @@
     "night":{
       "description":"Opady śniegu ziarnistego",
       "image":"http://openweathermap.org/img/wn/13n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(187,199,207,0.7525210767900911) 22%, rgba(60,100,140,0.7525210767900911) 48%)"
   },
   "80":{
     "day":{
@@ -207,7 +227,8 @@
     "night":{
       "description":"Lekkie przeltone opady deszczu",
       "image":"http://openweathermap.org/img/wn/09n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(61,118,156,0.7525210767900911) 22%, rgba(180,160,38,0.7525210767900911) 76%)"
   },
   "81":{
     "day":{
@@ -217,7 +238,8 @@
     "night":{
       "description":"Przelotne opady deszczu",
       "image":"http://openweathermap.org/img/wn/09n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(61,118,156,0.7525210767900911) 37%, rgba(180,160,38,0.7525210767900911) 76%)"
   },
   "82":{
     "day":{
@@ -227,7 +249,8 @@
     "night":{
       "description":"Przelotne ulewy",
       "image":"http://openweathermap.org/img/wn/09n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(36,95,134,0.7525210767900911) 59%, rgba(180,160,38,0.7525210767900911) 88%)"
   },
   "85":{
     "day":{
@@ -237,7 +260,8 @@
     "night":{
       "description":"Lekkie przelotne opady śniegu",
       "image":"http://openweathermap.org/img/wn/13n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(144,162,175,0.7525210767900911) 28%, rgba(180,160,38,0.7525210767900911) 90%)"
   },
   "86":{
     "day":{
@@ -247,7 +271,8 @@
     "night":{
       "description":"Przelotne opady śniegu",
       "image":"http://openweathermap.org/img/wn/13n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(122,145,162,0.7525210767900911) 61%, rgba(180,160,38,0.7525210767900911) 90%)"
   },
   "95":{
     "day":{
@@ -257,7 +282,8 @@
     "night":{
       "description":"Burze",
       "image":"http://openweathermap.org/img/wn/11n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(72,86,97,0.7525210767900911) 61%, rgba(32,55,96,0.7525210767900911) 90%)"
   },
   "96":{
     "day":{
@@ -267,7 +293,8 @@
     "night":{
       "description":"Lekkie burze z opadami gradu",
       "image":"http://openweathermap.org/img/wn/11n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(72,86,97,0.7525210767900911) 27%, rgba(199,204,210,0.75) 55%, rgba(32,55,96,0.7525210767900911) 90%)"
   },
   "99":{
     "day":{
@@ -277,6 +304,7 @@
     "night":{
       "description":"Burze z opadami gradu",
       "image":"http://openweathermap.org/img/wn/11n@2x.png"
-    }
+    },
+    "background": "linear-gradient(133deg, rgba(72,86,97,0.7525210767900911) 37%, rgba(117,135,157,0.75) 55%, rgba(39,68,120,0.7525210767900911) 77%)"
   }
 }

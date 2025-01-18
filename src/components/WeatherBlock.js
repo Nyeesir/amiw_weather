@@ -5,7 +5,7 @@ import WeatherCodes from "../WeatherCodes.json";
 
 function WeatherBlock({weatherData, units}) {
     return(
-        <div className={"weather-block"}>
+        <div className={"weather-block"} style={{background: WeatherCodes[weatherData.weather_code].background}}>
             <h1>{weatherData.time}</h1>
             <h2>{WeatherCodes[weatherData.weather_code].day.description}</h2>
             <div className={"weather-info"}>

@@ -7,7 +7,7 @@ import WeatherCodes from "../WeatherCodes.json";
 function MainWeatherBlock({weatherData, units, miasto}) {
     
     return (
-        <div className={"main-weather-block"}>
+        <div className={"main-weather-block"} style={{background: WeatherCodes[weatherData.weather_code].background}}>
             <h1>Pogoda teraz - {miasto}</h1>
             <h2>{WeatherCodes[weatherData.weather_code].day.description}</h2>
             <div className={"weather-info"}>
