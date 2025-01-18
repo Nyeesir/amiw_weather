@@ -1,0 +1,8 @@
+﻿.navbar{
+    width: auto;
+    height: 60px;
+    background-color: aqua;
+    border-radius: 10px;
+    margin: 10px 0;
+    padding: 10px;
+}

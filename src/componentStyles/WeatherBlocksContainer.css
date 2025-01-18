@@ -1,0 +1,11 @@
+﻿.weather-block-container{
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 10px 0;
+    background-color: lightsalmon;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+}

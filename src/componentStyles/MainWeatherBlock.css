@@ -1,0 +1,31 @@
+﻿.main-weather-block{
+    width: auto;
+    height: 400px;
+    background-color: wheat;
+    border-radius: 10px;
+    margin: 10px 0;
+    padding: 10px;
+
+    h1, >h2{
+        text-align: center;
+        display: block;
+        width: 100%;
+    }
+
+    .weather-info {
+        width: 80%;
+        float: left;
+    }
+
+    .weather-image {
+        width: 20%;
+        float: left;
+        text-align: center;
+    }
+    
+    .arrow {
+        height: 1em;
+        margin-left: 15px;
+    }
+    
+}

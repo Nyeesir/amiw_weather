@@ -1,0 +1,8 @@
+﻿.loading{
+    width: 300px;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: wheat;
+}
