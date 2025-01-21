@@ -2,11 +2,14 @@
 
 body {
     background: rgb(209,186,18);
-    background: linear-gradient(90deg, rgba(209,186,18,0.7525210767900911) 16%, rgba(255,255,255,0.75) 48%, rgba(61,94,153,0.7525210767900911) 79%);
+    background: linear-gradient(-45deg, rgba(209,186,18,0.7525210767900911) 16%, rgba(255,255,255,0.75) 48%, rgba(61,94,153,0.7525210767900911) 79%);
     font-family: "Oswald", serif;
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    height: 100vh;
 }
 
 h1 {
@@ -16,3 +19,14 @@ h2 {
     font-weight: 400;
 }
 
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
