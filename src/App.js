@@ -1,15 +1,14 @@
 import './App.css';
 import './components/WeatherBlock';
-import Navbar from "./components/Navbar";
 import MainWeatherBlock from "./components/MainWeatherBlock";
 import WeatherBlocksContainer from "./components/WeatherBlocksContainer";
 import {useEffect, useState} from "react";
 import Loading from "./components/Loading";
 
 function App() {
-    const miasto = "Mysłowice";
+    const miasto = "Sosnowiec";
     
-    const weatherApiUri = "https://api.open-meteo.com/v1/forecast?latitude=50.2075&longitude=19.1667&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m,wind_direction_10m&daily=weather_code,temperature_2m_max,temperature_2m_min,wind_speed_10m_max,wind_direction_10m_dominant&timezone=auto";
+    const weatherApiUri = "https://api.open-meteo.com/v1/forecast?latitude=50.2868&longitude=19.1039&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m,wind_direction_10m&daily=weather_code,temperature_2m_max,temperature_2m_min,wind_speed_10m_max,wind_direction_10m_dominant&timezone=auto";
     //const weatherApiUri = "";
     
     const [weatherData, setWeatherData] = useState(null);
